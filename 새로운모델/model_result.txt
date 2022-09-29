@@ -1,2 +1,2 @@
-LGBM_one_hot = accuracy:0.9092, precision:0.7196, recall:0.4607, f1-score:0.5618
 LGBM_not_one_hot = accuracy:0.9108, precision:0.7161, recall:0.487, f1-score:0.5797
+ optimize =         accuracy:0.9134, precision:0.7032, recall:0.5444, f1-score:0.6137
